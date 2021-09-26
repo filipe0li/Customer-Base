@@ -1,4 +1,4 @@
-# Shop
+# Customer-Base
 Para a realização desta atividade, suponha a necessidade de cadastrar clientes de uma loja. Por ser
 uma loja nova e com produtos inovadores, pouco se sabe do mercado a ser atingido, sendo assim,
 não se sabe a quantidade de clientes poderão ser cadastrados.
